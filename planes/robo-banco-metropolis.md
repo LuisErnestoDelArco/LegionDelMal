@@ -1,6 +1,6 @@
 # 💰 Operación Banco Mundial
 
-**Código:** OBM-001
+**Código:** OBM-002
 **Clasificación:** Ultra secreto
 **Líder de misión:** Lex Luthor
 **Estado:** 🟢 Activa
