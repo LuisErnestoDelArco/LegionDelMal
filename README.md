@@ -1,5 +1,11 @@
 # 🦹‍♂️ La Legión del Mal
 
+![Workflow](https://img.shields.io/github/actions/workflow/status/LuisErnesto22/LegionDelMal/ci.yml)
+![Release](https://img.shields.io/github/v/release/LuisErnesto22/LegionDelMal)
+![Issues](https://img.shields.io/github/issues/LuisErnesto22/LegionDelMal)
+![Último commit](https://img.shields.io/github/last-commit/LuisErnesto22/LegionDelMal)
+![Licencia](https://img.shields.io/github/license/LuisErnesto22/LegionDelMal)
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
