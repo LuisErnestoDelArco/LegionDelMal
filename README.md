@@ -1,4 +1,4 @@
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal desde remoto
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/LuisErnesto22/LegionDelMal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/LuisErnesto22/LegionDelMal)
